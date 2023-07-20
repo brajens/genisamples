@@ -2,3 +2,4 @@ eval/.ipynb_checkpoints/rouge_score_use-checkpoint.ipynb
 eval/.ipynb_checkpoints/bleu_score_use-checkpoint.ipynb
 langchain/.ipynb_checkpoints/document_to_embedding-checkpoint.ipynb
 usecases/RAG/.ipynb_checkpoints/using_kendra-checkpoint.ipynb
+langchain/.ipynb_checkpoints/calling_sagemaker_endpoint-checkpoint.ipynb
