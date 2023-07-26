@@ -4,3 +4,5 @@ langchain/.ipynb_checkpoints/document_to_embedding-checkpoint.ipynb
 usecases/RAG/.ipynb_checkpoints/using_kendra-checkpoint.ipynb
 langchain/.ipynb_checkpoints/calling_sagemaker_endpoint-checkpoint.ipynb
 langchain/.ipynb_checkpoints/compare_jumpstart_models-checkpoint.ipynb
+usecases/Chat/.ipynb_checkpoints/chat-llama-2-checkpoint.ipynb
+usecases/Summarization/.ipynb_checkpoints/chatscript_summary-checkpoint.ipynb
