@@ -12,3 +12,7 @@ tasks/.ipynb_checkpoints/calling_sagemaker_endpoint-checkpoint.ipynb
 tasks/.ipynb_checkpoints/compare_jumpstart_models-checkpoint.ipynb
 tasks/.ipynb_checkpoints/doc_embed_opensearch_serverless-checkpoint.ipynb
 tasks/.ipynb_checkpoints/document_to_embedding-checkpoint.ipynb
+tasks/.ipynb_checkpoints/doc_embedding_opensearchserverless_vectorindex-checkpoint.ipynb
+tasks/.ipynb_checkpoints/langchain_calling_sagemaker_endpoint-checkpoint.ipynb
+tasks/.ipynb_checkpoints/langchain_compare_jumpstart_models-checkpoint.ipynb
+tasks/.ipynb_checkpoints/langchain_document_to_embedding-checkpoint.ipynb
