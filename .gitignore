@@ -8,3 +8,7 @@ usecases/Chat/.ipynb_checkpoints/chat-llama-2-checkpoint.ipynb
 usecases/Summarization/.ipynb_checkpoints/chatscript_summary-checkpoint.ipynb
 usecases/PAL/.ipynb_checkpoints/pal_llama-2-13b-checkpoint.ipynb
 langchain/.ipynb_checkpoints/doc_embed_opensearch_serverless-checkpoint.ipynb
+tasks/.ipynb_checkpoints/calling_sagemaker_endpoint-checkpoint.ipynb
+tasks/.ipynb_checkpoints/compare_jumpstart_models-checkpoint.ipynb
+tasks/.ipynb_checkpoints/doc_embed_opensearch_serverless-checkpoint.ipynb
+tasks/.ipynb_checkpoints/document_to_embedding-checkpoint.ipynb
