@@ -16,3 +16,4 @@ tasks/.ipynb_checkpoints/doc_embedding_opensearchserverless_vectorindex-checkpoi
 tasks/.ipynb_checkpoints/langchain_calling_sagemaker_endpoint-checkpoint.ipynb
 tasks/.ipynb_checkpoints/langchain_compare_jumpstart_models-checkpoint.ipynb
 tasks/.ipynb_checkpoints/langchain_document_to_embedding-checkpoint.ipynb
+usecases/RAG/.ipynb_checkpoints/using_opensearch_serverless_vectorindex-checkpoint.ipynb
