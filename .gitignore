@@ -18,3 +18,5 @@ tasks/.ipynb_checkpoints/langchain_compare_jumpstart_models-checkpoint.ipynb
 tasks/.ipynb_checkpoints/langchain_document_to_embedding-checkpoint.ipynb
 usecases/RAG/.ipynb_checkpoints/using_opensearch_serverless_vectorindex-checkpoint.ipynb
 usecases/SQL/.ipynb_checkpoints/sql_llama-2-checkpoint.ipynb
+streamlit-clients/.ipynb_checkpoints/codeclient-checkpoint.py
+streamlit-clients/.ipynb_checkpoints/docqueryclient-checkpoint.py

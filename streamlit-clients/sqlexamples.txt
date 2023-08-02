@@ -1,0 +1,9 @@
+Create SQL statement from instruction.
+Database: Customers(CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country)
+Request: all the countries we have customers in without repetitions.
+SQL statement: SELECT DISTINCT Country FROM Customers;
+
+Create SQL statement from instruction.
+Database: Orders(OrderID, CustomerID, EmployeeID, OrderDate, ShipperID)
+Request: select all the orders from customer id 1.
+SQL statement: SELECT * FROM Orders WHERE CustomerID = 1;
