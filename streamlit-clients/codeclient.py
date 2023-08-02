@@ -40,13 +40,11 @@ if(st.button("Generate")):
                                        Body=json.dumps(payload),CustomAttributes="accept_eula=true")
     result = json.loads(response['Body'].read().decode())
     script = result[0]["generation"] 
-    
+    st.markdown("#### Response:")
     if (mode == 'SQL'):
         script = script[0:script.index(';')]
-        st.markdown("#### Response:")
         st.code(script, language="sql", line_numbers=False)
     else:
         script = script[0:script.index('return result')+13]
-        st.markdown("#### Response:")
         st.code(script, language="python", line_numbers=False)
     
