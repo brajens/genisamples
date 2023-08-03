@@ -20,3 +20,4 @@ usecases/RAG/.ipynb_checkpoints/using_opensearch_serverless_vectorindex-checkpoi
 usecases/SQL/.ipynb_checkpoints/sql_llama-2-checkpoint.ipynb
 streamlit-clients/.ipynb_checkpoints/codeclient-checkpoint.py
 streamlit-clients/.ipynb_checkpoints/docqueryclient-checkpoint.py
+streamlit-clients/.ipynb_checkpoints/genericclient-checkpoint.py
